@@ -1,0 +1,7 @@
+{
+  "name": "vueFlow",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
