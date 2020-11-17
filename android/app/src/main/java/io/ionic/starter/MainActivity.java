@@ -1,4 +1,4 @@
-package io.ionic.starter;
+package com.lm3m.starter;
 
 import android.os.Bundle;
 
