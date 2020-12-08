@@ -1,5 +1,5 @@
 {
-  "appId": "com.lm3m.starter",
+  "appId": "io.ionic.starter",
   "appName": "vueFlow",
   "bundledWebRuntime": false,
   "npmClient": "npm",
